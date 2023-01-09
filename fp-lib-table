@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "ultimateFC")(type "KiCad")(uri "${KIPRJMOD}/ultimateFC.pretty")(options "")(descr ""))
+)
