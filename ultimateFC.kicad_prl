@@ -1,10 +1,10 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
-    "high_contrast_mode": 1,
+    "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
       "pads": 1.0,
@@ -63,8 +63,8 @@
       35,
       36
     ],
-    "visible_layers": "00331cf_8000007f",
-    "zone_display_mode": 1
+    "visible_layers": "003ffef_8000007f",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "ultimateFC.kicad_prl",
