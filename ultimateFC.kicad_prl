@@ -63,8 +63,8 @@
       35,
       36
     ],
-    "visible_layers": "000ffcf_8000007f",
-    "zone_display_mode": 0
+    "visible_layers": "000ffef_8000007f",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "ultimateFC.kicad_prl",
