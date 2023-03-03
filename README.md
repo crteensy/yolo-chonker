@@ -1,4 +1,5 @@
 # yolo-chonker
+
 betaflight developer FC for the H735
 
 The layout has 6 layers, and the decoupling is designed for oshpark's 6-layer stackup (see oshpark_6L_stackup.png)
@@ -19,5 +20,8 @@ The layout has 6 layers, and the decoupling is designed for oshpark's 6-layer st
     - WS2812B including an output pad to attach more
   - battery voltage sensing
 - SWD pads
-- no analog OSD!
-- no HD connector!
+- no analog OSD
+- no HD connector
+
+CC-BY-SA-4.0
+https://creativecommons.org/licenses/by-sa/4.0/legalcode

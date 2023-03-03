@@ -5,9 +5,9 @@
   (paper "User" 799.998 419.989)
 
   (title_block
-    (title "Yolo FC")
-    (date "2021-04-24")
-    (rev "1")
+    (title "Yolo Chonker dev FC")
+    (date "2023-03-03")
+    (rev "0.1")
   )
 
   (lib_symbols
@@ -4959,6 +4959,11 @@
   (text "3300mV (ref) / (1k/(1k+10k))\n=36,3 Fullscale" (at 278.765 292.735 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 90bab210-17b6-416d-b0f1-a3c5c577806b)
+  )
+  (text "Attribution:\ncrteensy / chris_fly\nCC-BY-SA 4.0\nhttps://github.com/crteensy/yolo-chonker"
+    (at 36.83 49.53 0)
+    (effects (font (size 5.08 5.08)) (justify left bottom))
+    (uuid 93dcac85-3125-436d-8066-80cee64661f7)
   )
   (text "Current and voltage measurement" (at 266.7 276.86 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
