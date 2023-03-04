@@ -1,5 +1,13 @@
 # yolo-chonker
 
+## if you are a betaflight dev and received an assembled board from crteensy
+
+There is a branch with the "as-built" state that you received. There's a branch with that state: https://github.com/crteensy/yolo-chonker/tree/as-built-20230303
+
+It includes a description of minor mistakes and errors, and what paste (high temp, low temp) was used where.
+
+## What this is
+
 betaflight developer FC for the H735
 
 The layout has 6 layers, and the decoupling is designed for oshpark's 6-layer stackup (see oshpark_6L_stackup.png)
