@@ -2,7 +2,7 @@
 
 ## if you are a betaflight dev and received an assembled board from crteensy
 
-There is a branch with the "as-built" state that you received. There's a branch with that state: https://github.com/crteensy/yolo-chonker/tree/as-built-20230303
+There is a branch with the "as-built" state that you received: https://github.com/crteensy/yolo-chonker/tree/as-built-20230303
 
 It includes a description of minor mistakes and errors, and what paste (high temp, low temp) was used where.
 
